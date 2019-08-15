@@ -1,0 +1,15 @@
+INDEX VERSION 1.127+/Users/liuminghao/priv/lmh/github/java_test/.metadata/.plugins/org.eclipse.jdt.core
+32598543.index
+1404425757.index
+2008153205.index
+301914719.index
+1555337597.index
+3397811545.index
+3162815583.index
+3490192396.index
+3836625549.index
+766687266.index
+70094158.index
+3682567309.index
+2329073280.index
+2730558016.index

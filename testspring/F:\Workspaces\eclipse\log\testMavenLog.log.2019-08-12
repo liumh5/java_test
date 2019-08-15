@@ -1,0 +1,4 @@
+2019-08-12 21:31:06,090-[TS] INFO main testspring.Application_main - Application_main
+2019-08-12 21:31:06,095-[TS] INFO main testspring.MessagePrinter - MessagePrinter is start
+2019-08-12 21:31:06,104-[TS] INFO main testspring.MessageService - MessageService is start
+2019-08-12 21:31:06,104-[TS] INFO main testspring.MessagePrinter - Hello World!
